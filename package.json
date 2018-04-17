@@ -2,7 +2,7 @@
   "name": "t4",
   "version": "0.0.4",
   "dependencies": {
-    "@devinit/graphql-next": "0.4.2"
+    "@devinit/graphql-next": "0.4.3"
   },
   "renovate": {}
 }
